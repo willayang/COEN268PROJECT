@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "414082216567",
+    "firebase_url": "https://cameratranslation.firebaseio.com",
+    "project_id": "cameratranslation",
+    "storage_bucket": "cameratranslation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414082216567:android:57a378fbadb78d1e",
+        "android_client_info": {
+          "package_name": "willa.com.cameratranslation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414082216567-8dt0mtf83conh5ocpmrlfiij4jndg7q4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "willa.com.cameratranslation",
+            "certificate_hash": "3ef68511d59f5cd8cbdd346cde33d7f09147e2f1"
+          }
+        },
+        {
+          "client_id": "414082216567-jjrflugdgrr21ehi8rqciqk0t90e84u0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBejGQ52NVk_XiAmpG3T1UX5hPNOW564fY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414082216567-jjrflugdgrr21ehi8rqciqk0t90e84u0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
